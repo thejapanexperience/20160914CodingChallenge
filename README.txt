@@ -1,1 +1,1 @@
-Wednesday 14th September coding challenge. Every third word capitalize.
+oWednesday 14th September coding challenge. Every third word capitalize.
